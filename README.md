@@ -88,12 +88,22 @@ Configure the project to pull code from the GitHub repository.
 Set up a build step to build the Docker image and deploy the container.
 
 
+## Screenshots
+
+![Screenshot from 2024-05-23 14-29-53](https://github.com/bidhimaharjan/intuji-devops-internship-challenge/assets/119237685/3d0a156c-52ba-4778-86b3-ddef38942f3b)
+![Screenshot from 2024-05-23 14-38-27](https://github.com/bidhimaharjan/intuji-devops-internship-challenge/assets/119237685/80e5c9bb-d6ba-4c9c-af46-0b631e0cce3f)
+![Screenshot from 2024-05-23 14-43-26](https://github.com/bidhimaharjan/intuji-devops-internship-challenge/assets/119237685/4c9dc625-afbb-478a-b5fa-0c54c158fd76)
+![Screenshot from 2024-05-23 18-12-10](https://github.com/bidhimaharjan/intuji-devops-internship-challenge/assets/119237685/00877328-b4cd-419c-8bb6-1d243dcb7fbb)
+![Screenshot from 2024-05-23 18-12-33](https://github.com/bidhimaharjan/intuji-devops-internship-challenge/assets/119237685/f7390023-a48e-46a5-b2ac-15b28fecc7c8)
+![Screenshot from 2024-05-23 18-15-06](https://github.com/bidhimaharjan/intuji-devops-internship-challenge/assets/119237685/f0f3cc09-09ac-410a-a1a9-7f895207e142)
+![Screenshot from 2024-05-24 05-03-04](https://github.com/bidhimaharjan/intuji-devops-internship-challenge/assets/119237685/5161df4d-5efa-4ead-9cfd-70309df4c5b7)
+
+
+
 
 ## Conclusion
 
 This documentation provides a step-by-step guide to set up Docker, Jenkins, and a CI/CD pipeline for a PHP web application.
-
-![Screenshot from 2024-05-23 14-29-53](https://github.com/bidhimaharjan/intuji-devops-internship-challenge/assets/119237685/3d0a156c-52ba-4778-86b3-ddef38942f3b)
 
 
 
