@@ -93,5 +93,7 @@ Set up a build step to build the Docker image and deploy the container.
 
 This documentation provides a step-by-step guide to set up Docker, Jenkins, and a CI/CD pipeline for a PHP web application.
 
+![Screenshot from 2024-05-23 14-29-53](https://github.com/bidhimaharjan/intuji-devops-internship-challenge/assets/119237685/3d0a156c-52ba-4778-86b3-ddef38942f3b)
+
 
 
